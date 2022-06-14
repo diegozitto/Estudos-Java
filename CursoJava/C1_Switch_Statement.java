@@ -40,7 +40,7 @@ public class C1_Switch_Statement {
                 break;
 
             default:
-                System.out.println("Was not 1 or 2");
+              //  System.out.println("Was not 1 or 2");
                 break;
                 //seria o else
         }
